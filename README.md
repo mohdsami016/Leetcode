@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mohdsami016/Leetcode/tree/master/0053-maximum-subarray) |
 | [0414-third-maximum-number](https://github.com/mohdsami016/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/mohdsami016/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [1710-maximum-units-on-a-truck](https://github.com/mohdsami016/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/mohdsami016/Leetcode/tree/master/0414-third-maximum-number) |
+| [1710-maximum-units-on-a-truck](https://github.com/mohdsami016/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Math
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mohdsami016/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Greedy
+|  |
+| ------- |
+| [1710-maximum-units-on-a-truck](https://github.com/mohdsami016/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
