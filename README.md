@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mohdsami016/Leetcode/tree/master/0053-maximum-subarray) |
 | [0414-third-maximum-number](https://github.com/mohdsami016/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/mohdsami016/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0912-sort-an-array](https://github.com/mohdsami016/Leetcode/tree/master/0912-sort-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/mohdsami016/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mohdsami016/Leetcode/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/mohdsami016/Leetcode/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/mohdsami016/Leetcode/tree/master/0414-third-maximum-number) |
+| [0912-sort-an-array](https://github.com/mohdsami016/Leetcode/tree/master/0912-sort-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/mohdsami016/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Math
 |  |
@@ -82,4 +85,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mohdsami016/Leetcode/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mohdsami016/Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mohdsami016/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mohdsami016/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mohdsami016/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mohdsami016/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
