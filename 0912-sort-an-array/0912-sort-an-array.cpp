@@ -5,20 +5,16 @@ public:
             int left=low,right=mid+1;
             while(left<=mid&&right<=high){
                 if(a[left]<=a[right]){
-                    temp.push_back(a[left]);
-                    left++;
+                    temp.push_back(a[left++]);
                 }else{
-                    temp.push_back(a[right]);
-                    right++;
+                    temp.push_back(a[right++]);
                 }
             }
             while(left<=mid){
-                    temp.push_back(a[left]);
-                    left++;
+                    temp.push_back(a[left++]);
                 }
             while(right<=high){
-                    temp.push_back(a[right]);
-                    right++;
+                    temp.push_back(a[right++]);
             }
             for(int i=low;i<=high;i++){
                 a[i]=temp[i-low];
