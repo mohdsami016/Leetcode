@@ -12,10 +12,8 @@ public:
              cap+=pq.top().second;
              pq.pop();
             }else{
-                int rem=truckSize-cap;
-                cap=truckSize;
-                units+=rem*pq.top().first;
-                pq.pop();
+                units+=(truckSize-cap)*pq.top().first;
+                break;
             }
         }
         return units;
