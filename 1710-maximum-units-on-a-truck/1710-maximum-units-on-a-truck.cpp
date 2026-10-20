@@ -6,7 +6,7 @@ public:
             pq.push({x[1],x[0]});
         }
         int cap=0,units=0;
-        while(cap<truckSize&&!pq.empty()){
+        while(cap<=truckSize&&!pq.empty()){
             if(cap+pq.top().second<truckSize){
              units+=pq.top().first*pq.top().second;
              cap+=pq.top().second;
