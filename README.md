@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0342-power-of-four](https://github.com/mohdsami016/Leetcode/tree/master/0342-power-of-four) |
 | [0633-sum-of-square-numbers](https://github.com/mohdsami016/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [2235-add-two-integers](https://github.com/mohdsami016/Leetcode/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
