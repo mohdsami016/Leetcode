@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/mohdsami016/Leetcode/tree/master/0342-power-of-four) |
 | [0633-sum-of-square-numbers](https://github.com/mohdsami016/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mohdsami016/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0342-power-of-four](https://github.com/mohdsami016/Leetcode/tree/master/0342-power-of-four) |
 ## Greedy
 |  |
 | ------- |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/mohdsami016/Leetcode/tree/master/0912-sort-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/mohdsami016/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
