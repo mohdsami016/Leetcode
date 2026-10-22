@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mohdsami016/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/mohdsami016/Leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/mohdsami016/Leetcode/tree/master/0053-maximum-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/mohdsami016/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0414-third-maximum-number](https://github.com/mohdsami016/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/mohdsami016/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/mohdsami016/Leetcode/tree/master/0912-sort-an-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mohdsami016/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/mohdsami016/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Tree
 |  |
@@ -112,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/mohdsami016/Leetcode/tree/master/0342-power-of-four) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mohdsami016/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mohdsami016/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
