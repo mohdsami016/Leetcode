@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mohdsami016/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/mohdsami016/Leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/mohdsami016/Leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/mohdsami016/Leetcode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohdsami016/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0414-third-maximum-number](https://github.com/mohdsami016/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/mohdsami016/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -28,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/mohdsami016/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/mohdsami016/Leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/mohdsami016/Leetcode/tree/master/0075-sort-colors) |
 | [0392-is-subsequence](https://github.com/mohdsami016/Leetcode/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/mohdsami016/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mohdsami016/Leetcode/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/mohdsami016/Leetcode/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/mohdsami016/Leetcode/tree/master/0912-sort-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/mohdsami016/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -128,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mohdsami016/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mohdsami016/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mohdsami016/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
