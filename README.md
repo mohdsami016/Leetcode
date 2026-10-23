@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/mohdsami016/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/mohdsami016/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/mohdsami016/Leetcode/tree/master/0027-remove-element) |
+| [0051-n-queens](https://github.com/mohdsami016/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/mohdsami016/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/mohdsami016/Leetcode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohdsami016/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -150,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/mohdsami016/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/mohdsami016/Leetcode/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/mohdsami016/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
