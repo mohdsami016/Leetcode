@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mohdsami016/Leetcode/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/mohdsami016/Leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohdsami016/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/mohdsami016/Leetcode/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/mohdsami016/Leetcode/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/mohdsami016/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/mohdsami016/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mohdsami016/Leetcode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/mohdsami016/Leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/mohdsami016/Leetcode/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/mohdsami016/Leetcode/tree/master/0912-sort-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/mohdsami016/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/mohdsami016/Leetcode/tree/master/0322-coin-change) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/mohdsami016/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
